@@ -17,4 +17,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Moon.unity
     guid: 932b05c779b044c5d85ea539c5b2e090
+  - enabled: 1
+    path: Assets/Scenes/Sky.unity
+    guid: 70204dbb777c142afb9d78fbf5dedc83
   m_configObjects: {}
