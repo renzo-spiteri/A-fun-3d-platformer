@@ -1493,7 +1493,7 @@ PrefabInstance:
     - target: {fileID: 720154751620908018, guid: a447b9cfc739d4d12b9d8f1d8762b008,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.2080002
+      value: -0.16699982
       objectReference: {fileID: 0}
     - target: {fileID: 720154751620908018, guid: a447b9cfc739d4d12b9d8f1d8762b008,
         type: 3}
@@ -1509,16 +1509,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LookAt
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1021183244}
     - target: {fileID: 1311999985642959529, guid: a447b9cfc739d4d12b9d8f1d8762b008,
         type: 3}
       propertyPath: m_TagString
       value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 1532322670147847057, guid: a447b9cfc739d4d12b9d8f1d8762b008,
-        type: 3}
-      propertyPath: starterAssetsInputs
-      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 2541196960284019552, guid: a447b9cfc739d4d12b9d8f1d8762b008,
         type: 3}
@@ -1605,16 +1600,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: NestedParentArmature_Unpack Variant
       objectReference: {fileID: 0}
-    - target: {fileID: 5965414391245211022, guid: a447b9cfc739d4d12b9d8f1d8762b008,
-        type: 3}
-      propertyPath: Gravity
-      value: -3.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 5965414391245211022, guid: a447b9cfc739d4d12b9d8f1d8762b008,
-        type: 3}
-      propertyPath: JumpHeight
-      value: 2.4
-      objectReference: {fileID: 0}
     - target: {fileID: 6098163615565144309, guid: a447b9cfc739d4d12b9d8f1d8762b008,
         type: 3}
       propertyPath: m_LocalPosition.y
@@ -1628,17 +1613,12 @@ PrefabInstance:
     - target: {fileID: 7593998700173240541, guid: a447b9cfc739d4d12b9d8f1d8762b008,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.2080002
+      value: -0.16699982
       objectReference: {fileID: 0}
     - target: {fileID: 7593998700173240541, guid: a447b9cfc739d4d12b9d8f1d8762b008,
         type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.3800001
-      objectReference: {fileID: 0}
-    - target: {fileID: 7948347065562594923, guid: a447b9cfc739d4d12b9d8f1d8762b008,
-        type: 3}
-      propertyPath: m_Name
-      value: PlayerArmature
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
@@ -1648,7 +1628,7 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: a447b9cfc739d4d12b9d8f1d8762b008, type: 3}
 --- !u!4 &1021183244 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 3849960878181882486, guid: a447b9cfc739d4d12b9d8f1d8762b008,
+  m_CorrespondingSourceObject: {fileID: 6098163615565144309, guid: a447b9cfc739d4d12b9d8f1d8762b008,
     type: 3}
   m_PrefabInstance: {fileID: 1021183243}
   m_PrefabAsset: {fileID: 0}
